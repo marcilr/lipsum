@@ -1,0 +1,14 @@
+lipsum.txt
+Created Fri Jul 19 10:16:34 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+lipsum – Easy access to the Lorem Ipsum dummy text in TEX-paragraphs
+
+
+Links
+=====
+lipsum – Easy access to the Lorem Ipsum dummy text in TEX-paragraphs
+CTAN Comprehensive TEX Archive Network
+https://ctan.org/pkg/lipsum?lang=en
+
